@@ -1,10 +1,11 @@
-# Data Science - Module 1 Final Project - An Analysis of the Film Industry
+# Data Science - Module 1 Final Project
+## An Analysis of the Film Industry
 
 ## Overview
 ```
 discovery.ipynb             # Jupyter notebook containing data discovery code and documenting the datasets
 exploration.ipynb           # Jupyter notebook containing EDA and visualisations in response to the brief
-presentation.pdf            #
+presentation.pdf            # A non-technical presentation of the project findings
 └── zippedData              # Raw datasets (for more detail see the discovery.ipynb notebook)
 ```
 
