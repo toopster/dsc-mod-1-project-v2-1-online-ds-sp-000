@@ -1,5 +1,5 @@
-# Data Science - Module 1 Final Project
-## An Analysis of the Film Industry
+# Module 1 Final Project - An Analysis of the Film Industry
+
 
 ## Overview
 ```
